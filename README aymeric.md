@@ -34,6 +34,9 @@ Copyleft: Le copyleft est une méthode générale pour rendre libre un programme
 https://www.gnu.org/licenses/copyleft.fr.html
 
 - Que sont les Creatives Commons ?
+C'est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs.
+https://fr.wikipedia.org/wiki/Creative_Commons
+
 - Qui est Grace Hopper ?
 - Qu'est-ce que Qwant ?
 - Qui est Steve Wozniak ?
