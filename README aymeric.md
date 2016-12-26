@@ -38,8 +38,17 @@ C'est une organisation à but non lucratif dont le but est de proposer une solut
 https://fr.wikipedia.org/wiki/Creative_Commons
 
 - Qui est Grace Hopper ?
+Born in New York City in 1906, Grace Hopper joined the U.S. Navy during World War II and was assigned to program the Mark I computer. She continued to work in computing after the war, leading the team that created the first computer language compiler, which led to the popular COBOL language. She resumed active naval service at the age of 60, becoming a rear admiral before retiring in 1986. Hopper died in Virginia in 1992.
+source: http://www.biography.com/people/grace-hopper-21406809
+
 - Qu'est-ce que Qwant ?
+Qwant est moteur de recherche français lancé le 16 février 2013 en version bêta, puis en version finale le 4 juillet 2013.
+http://fr.wikipedia.org/wiki/Qwant
+
 - Qui est Steve Wozniak ?
+Steve Wozniak was born in San Jose, California, on August 11, 1950. In partnership with his friend Steve Jobs, Wozniak invented the Apple I computer. The pair founded Apple Computers in 1976 with Ronald Wayne, releasing some of the first personal computers on the market. Wozniak also personally developed the next model, Apple II, which established Apple as a major player in microcomputing.
+http://www.biography.com/people/steve-wozniak-9537334
+
 - D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
 - Qu’est-ce que le projet GNU ?
 - Quelles sont les différences entre le Http et le Https ?
