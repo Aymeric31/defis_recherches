@@ -5,6 +5,9 @@ In December 1968, Elmer Shapiro with SRI released a report "A Study of Computer 
 source: http://www.computerhope.com/issues/ch001016.htm
 
 - Quelle est la différence entre le Web et Internet ?
+The Internet, linking your computer to other computers around the world, is a way of transporting content. The Web is software that lets you use that conten, or contribute your own. The Web, running on the mostly invisible Internet, is what you see and click on in your computer’s browser.
+source: http://www.computerhistory.org/revolution/networking/19/314
+
 - Qu’est-ce que cela :
 - 8.8.8.8
 - 192.168.0.1
