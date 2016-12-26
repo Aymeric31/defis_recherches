@@ -10,10 +10,29 @@ source: http://www.computerhistory.org/revolution/networking/19/314
 
 - Qu’est-ce que cela :
 - 8.8.8.8
+C'est une addresse IP de google , elle est utilisé comme un serveur DNS public .
+source: https://developers.google.com/speed/public-dns/
+
 - 192.168.0.1
+Is most commonly used as the Netgear or D-Link default IP address for local router configuration. The primary use of the default Netgear and D-Link IP address is to allow an end-user or network administrator to connect to the network router to configure the Internet connection, security settings, or generally conduct network administrator functions.
+source: http://www.tech-faq.com/192-168-0-1.html
+
 - 255.255.255.0
+255.255.255.0 is the most common subnet mask used on computers connected to Internet Protocol (IPv4) networks. Besides its use on home network routers, a person will also commonly encounter this mask on network professional certification exams like the CCNA.
+source: https://www.lifewire.com/255-255-255-0-ip-networking-818371
+
 - 127.0.0.1
+A loopback address; a non-routable IP address that is defined as referring to the "local" computer. 
+In other words, 127.0.0.1 is any computer you happen to be sitting in front of right now.
+source: http://www.urbandictionary.com/define.php?term=127.0.0.1
+
 - Que sont le copyright et le copyleft ?
+Copyright: Droit que se réserve un auteur ou son cessionnaire pour protéger l'exploitation, pendant un certain nombre d'années, d'une œuvre littéraire, artistique ou scientifique.
+source: www.larousse.fr/dictionnaires/francais/copyright/19166
+
+Copyleft: Le copyleft est une méthode générale pour rendre libre un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.
+https://www.gnu.org/licenses/copyleft.fr.html
+
 - Que sont les Creatives Commons ?
 - Qui est Grace Hopper ?
 - Qu'est-ce que Qwant ?
